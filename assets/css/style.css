@@ -32,6 +32,19 @@ h2 {
     background-color: #dbdcde; /* light grey */
 }
 
+#portfolio .card-title {
+    color: #1f7798;
+    font-size: 1.2rem;
+}
+
+#portfolio .btn-outline-secondary:hover {
+    background-color: #1f7798;
+}
+
+#portfolio .card-text {
+    min-height: 120px;
+}
+
 /* Contact secion */
 
 #contact {
